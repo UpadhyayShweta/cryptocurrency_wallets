@@ -16,7 +16,7 @@ Scenario: A startup that is building a new and disruptive platform called Krypto
 ![Application Screen](Images/application_screenshot.png)
 
 >Ganache Account screenshot post transaction
-![Ganache_Account Screen](Ganache_Account.png)
+![Ganache_Account Screen](Images/Ganache_Account.png)
 
 >Ganache Transaction screenshot post transaction
 ![Ganache_txn Screen](Images/Ganache_txn.png)
